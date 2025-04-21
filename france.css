@@ -1,0 +1,56 @@
+<style>
+    body {
+        background-image: url("images/france.webp");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        font-family: Arial, sans-serif;
+        color: #fff; /* Makes text readable over background */
+        padding: 20px;
+    }
+
+    header {
+        background-color: rgba(0, 0, 0, 0.6);
+        padding: 20px;
+        text-align: center;
+        border-radius: 8px;
+    }
+
+    h1 {
+        font-size: 3rem; /* Increased heading size */
+        margin: 0;
+    }
+
+    li {
+        list-style-type: none;
+        margin-bottom: 25px;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px; /* Increased padding for better spacing */
+        border-radius: 10px;
+    }
+
+    .item-content {
+        margin-top: 8px;
+        font-size: 1.1rem; /* Increased font size for content */
+    }
+
+    .list-img {
+        display: block;
+        margin-bottom: 10px; /* Increased space between image and content */
+        border-radius: 8px;
+    }
+
+    ul {
+        padding-left: 0;
+    }
+
+    h3 {
+        background-color: rgba(0, 0, 0, 0.6);
+        display: inline-block;
+        padding: 10px 15px;
+        border-radius: 5px;
+        font-size: 1.8rem; /* Increased size of subheadings */
+        margin-bottom: 15px; /* Space below subheadings */
+    }
+</style>
